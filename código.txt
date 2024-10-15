@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="menu container">
+            <a href="#" class="logo">logo</a>
+            <input type="checkbox" id="menu">
+            <label for="menu">
+                <img src="imágenes/logo.png" class="menu-icono" alt="">
+            </label>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#">Productos disponibles</a></li>
+                    <li><a href="#">Redes Sociales</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="header-content-container">
+            <h1>Coffee Entre Amigos</h1>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur repellat alias corrupti. Distinctio ut quae dolore assumenda et nemo labore eum quisquam! Ipsam ab magnam, veniam saepe eveniet vero consectetur.     
+            </p>
+            <a href="#" class="btn-1">Información</a>
+        </div>
+    </header>
+
+    <section class="Coffee">
+        <img class="Coffee-img" src="imágenes/bg2.png" alt="">
+        <div class="Coffee-content container"> 
+            <h2>los diferentes tipos de cafe </h2>
+            <p class="txt-p"> 
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo, tempora at ullam rerum cupiditate error quas aut? Expedita est a et magni illum, quibusdam similique laudantium neque optio. Ducimus, ipsa.
+            </p>
+            <div class="Coffee-group">
+                <div class="Coffee-1">
+                <img src="imágenes/c1.png" alt="">
+                <h3> cafe lorem </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium obcaecati eos earum voluptate. Repellat eligendi reiciendis, velit soluta eum quasi mollitia veniam, est amet a culpa sequi iure illo distinctio.
+                </p>
+                <div>
+            </div>        
+            <div class="Coffee-1">
+                <img src="imágenes/c2.png" alt="">
+                <h3> cafe lorem </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium obcaecati eos earum voluptate. Repellat eligendi reiciendis, velit soluta eum quasi mollitia veniam, est amet a culpa sequi iure illo distinctio.
+                </p>
+            </div>
+            <div class="Coffee-1">
+                <img src="imágenes/c3.png" alt="">
+                <h3> cafe lorem </h3>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium obcaecati eos earum voluptate. Repellat eligendi reiciendis, velit soluta eum quasi mollitia veniam, est amet a culpa sequi iure illo distinctio.
+                </p>
+            </div>
+
+        </div>
+        <a href="#" class="btn-1">Información</a>
+        
+    </section>
+
+    <main class="services">
+        <div class="services-content container">
+            <h2> cafeteria servicios</h2>
+            <div class="services.group">
+                <div class="services-1">
+                    <img src="" >
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+</body>
+</html>
